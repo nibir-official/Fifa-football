@@ -82,6 +82,7 @@ body{
     .red{
         background-color: #DD0000;
         border: none;
+        
     }
     .update{
         display: flex;
@@ -148,6 +149,27 @@ body{
             margin-top: 40px;
             border: none;
             visibility: hidden;
+    }
+
+    /*  */
+    .btnn2{
+        text-decoration: none;
+        color: white;
+        margin: 20px;
+        padding: 10px;
+        font-weight: 700;
+       
+
+    }
+    .red2{
+        background-color: #DD0000;
+        border: none;
+        border-radius: 5px solid white;
+        margin: 20px;
+        padding: 20px;
+        align-items: center;
+        
+        
     }
     /* Footer */
     footer{
